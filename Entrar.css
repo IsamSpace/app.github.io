@@ -14,8 +14,7 @@ body {
   
   .input-field {
     padding: 20px;
-    position: relative;
-    left: center;
+    margin-right: 20px;
     filter: drop-shadow(1px 1.5px black);
   }
   
@@ -33,7 +32,8 @@ body {
   button {
     background-color: #009688;
     color: white;
-    padding: 10px;
+    padding: relative;
+    top: ;
     border: none;
     cursor: pointer;
   }
