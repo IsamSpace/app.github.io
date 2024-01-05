@@ -3,16 +3,20 @@ body {
   }
   
   form {
-    width: 500px;
-    margin: 0 auto;
+    width: auto;
+    margin: 2% auto;
+    background: #44326b;
   }
   
   .input-field {
+    padding: 20px;
     margin-bottom: 10px;
+    filter: drop-shadow(1px 1.5px black);
   }
   
   label {
     font-weight: bold;
+    width: 50%;
   }
   
   input {
