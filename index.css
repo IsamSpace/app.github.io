@@ -86,8 +86,16 @@ a:hover{
   color:aliceblue;
   font-size: 13pt;
 }
-
-
+@keyframes pulse {
+  0% {  
+    transform: scale(1.1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1.1);
+  }
 }
 @media only screen and (max-width: 767px) {
   
