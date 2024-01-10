@@ -445,4 +445,7 @@ button{
   text-align: center;
   font-size: 16px;
   border-radius: 32px 64px;
+  position: relative;
+  pot: 0;
+  left: 0;
 }
