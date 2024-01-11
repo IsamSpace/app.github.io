@@ -437,7 +437,7 @@ iframe{
 p{
   font-size: 15pt;
 /* Seletor recomendado: */
-.entrar {
+button {
   background-color: #93709C;
   border: none;
   color: white;
