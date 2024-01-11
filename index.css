@@ -437,13 +437,13 @@ iframe{
 p{
   font-size: 15pt;
 /* Seletor recomendado: */
-#entrar {
+.entrar {
   background-color: #93709C;
   border: none;
   color: white;
   padding: 15px 32px;
   font-size: 16px;
-  border-radius: 32px 48px;
+  border-radius: 32px 64px;
   position: absolute;
   top: 0;
   right: 0;
