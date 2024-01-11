@@ -441,10 +441,9 @@ button {
   background-color: #93709C;
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 15px 28px;
   font-size: 16px;
   border-radius: 32px 64px;
-  height: 20px;
 }
 .entrar{
   position: absolute;
