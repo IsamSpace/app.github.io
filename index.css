@@ -437,7 +437,7 @@ iframe{
 p{
   font-size: 15pt;
 /* Seletor recomendado: */
-.button {
+button {
   background-color: #93709C;
   border: none;
   color: white;
@@ -451,7 +451,4 @@ p{
   height: 50px;
 }
 /* Se for necessário manter o seletor #button, unifique as propriedades: */
-#button {
-  /* Mesmas propriedades de .button */
-}
 
