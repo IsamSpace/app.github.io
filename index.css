@@ -436,17 +436,18 @@ iframe{
 }
 p{
   font-size: 15pt;
-}
-#button{
-  backgroud-color: #93709C;
+/* Seletor recomendado: */
+.button {
+  background-color: #93709C;
   border: none;
   color: white;
   padding: 15px 32px;
   font-size: 16px;
-  border-radius: 32px 64px;
+  border-radius: 32px 48px; /* Valores mais próximos para formato elíptico */
 }
-.button{
-  position: relative;
-  top: 0px;
-  left: 0px;
+
+/* Se for necessário manter o seletor #button, unifique as propriedades: */
+#button {
+  /* Mesmas propriedades de .button */
 }
+
