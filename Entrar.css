@@ -11,6 +11,7 @@ body {
     margin: 20% auto;
     background: #44326b;
     text-align: center;
+    border-radius: 10vw;
   }
   
   .input-field {
