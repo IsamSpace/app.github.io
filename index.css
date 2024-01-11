@@ -436,6 +436,7 @@ iframe{
 }
 p{
   font-size: 15pt;
+}
 /* Seletor recomendado: */
 button {
   background-color: #93709C;
@@ -444,9 +445,9 @@ button {
   padding: 15px 32px;
   font-size: 16px;
   border-radius: 32px 64px;
+}
+.entrar{
   position: absolute;
   top: 0;
-  right: 0;
+  right: 0; 
 }
-/* Se for necessário manter o seletor #button, unifique as propriedades: */
-
