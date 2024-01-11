@@ -448,6 +448,6 @@ p{
 }
 .button{
   position: relative;
-  pot: 0px;
+  top: 0px;
   left: 0px;
 }
