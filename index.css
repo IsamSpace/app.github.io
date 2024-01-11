@@ -444,7 +444,7 @@ button {
   padding: 15px 32px;
   font-size: 16px;
   border-radius: 32px 64px;
-  height: 1px;
+  height: 20px;
 }
 .entrar{
   position: absolute;
